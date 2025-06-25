@@ -90,7 +90,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
 
-Mohammad Amin Shamshiri
+Aishwarya Laxmi
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma-shamshiri)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ma_shamshiri)
